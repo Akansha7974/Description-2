@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html,body{
+    height: 100%;
+    width: 100%;
+}
+body{
+    font-family: "Protest Revolution", sans-serif;
+    font-weight: 300;
+}
+nav{
+    background-color: #9fd4da;
+    display: flex;
+    justify-content: space-between;
+    padding: 15px 30px;
+}
+.heading{
+    display: flex;
+    gap: 50px;
+}
+.heading p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+}
+h3{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    padding-top: 80px;
+}
+h1{
+    text-align: center;
+    font-size: 50px;
+    padding-bottom: 50px;
+}
+img{
+    height: 60%;
+    width: 19.7%;
+    
+}
